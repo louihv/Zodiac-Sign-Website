@@ -1,32 +1,32 @@
 
 @font-face {
 	font-family: 'mot';
-	src: url(/fonts/mostera.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/mostera.woff) format('woff');
   }
   @font-face {
 	font-family: 'lejou';
-	src: url(/fonts/lej.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/lej.woff) format('woff');
   }
   @font-face {
 	font-family: 'nomad';
-	src: url(/fonts/nomad.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/nomad.woff) format('woff');
   }
   @font-face {
 	font-family: 'antiqua';
-	src: url(/fonts/antiqua.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/antiqua.woff) format('woff');
   }
   @font-face {
 	font-family: 'tarot';
-	src: url(/fonts/tarot.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/tarot.woff) format('woff');
   }
   @font-face {
 	font-family: 'antique';
-	src: url(/fonts/antique.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/antique.woff) format('woff');
   }
 
 
 body {
-	background: rgba(0, 0, 0, 0.5) url('/resources/neb.jpg'); 
+	background: rgba(0, 0, 0, 0.5) url('/Celestial-Base-Website/resources/neb.jpg'); 
     /* background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25pMzkyenhhenlyeTlydHI4YmQzejJrZmxrbW9uZnl2ZDN6MGE0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3c614V12UA82q1vG/giphy.gif'); */
 	  background-size: cover;
     background-blend-mode: darken;

@@ -1,27 +1,27 @@
 @font-face {
 	font-family: 'cinzel';
-	src: url(/fonts/cinzel.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/cinzel.woff) format('woff');
   }
   @font-face {
 	font-family: 'lejou';
-	src: url(/fonts/lej.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/lej.woff) format('woff');
   }
   @font-face {
 	font-family: 'antiqua';
-	src: url(/fonts/antiqua.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/antiqua.woff) format('woff');
   }
   @font-face {
 	font-family: 'antique';
-	src: url(/fonts/antique.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/antique.woff) format('woff');
   }
   @font-face {
     font-family: 'moglan';
-    src: url(/fonts/moglan.woff) format('woff');
+    src: url(/Celestial-Base-Website/fonts/moglan.woff) format('woff');
     }
 
 body {
 	
-    background: rgba(0, 0, 0, 0.5) url('/resources/neb.jpg');
+    background: rgba(0, 0, 0, 0.5) url('/Celestial-Base-Website/resources/neb.jpg');
     background-size:cover;
     background-blend-mode: darken;
     background-position: center;

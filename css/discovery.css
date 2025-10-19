@@ -1,19 +1,19 @@
 @font-face {
 	font-family: 'mot';
-	src: url(/fonts/mostera.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/mostera.woff) format('woff');
   }
   @font-face {
 	font-family: 'lejou';
-	src: url(/fonts/lej.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/lej.woff) format('woff');
   }
   @font-face {
 	font-family: 'antique';
-	src: url(/fonts/antique.woff) format('woff');
+	src: url(/Celestial-Base-Website/fonts/antique.woff) format('woff');
   }
   
 body {
 	width: 900px;
-    background: rgba(0, 0, 0, 0.5) url('/resources/neb.jpg');
+    background: rgba(0, 0, 0, 0.5) url('/Celestial-Base-Website/resources/neb.jpg');
     /* backdrop-filter: blur(5px); */
 	background-size:cover;
     background-blend-mode: darken;
