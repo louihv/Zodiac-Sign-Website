@@ -49,9 +49,8 @@ function list(){
     document.getElementById("history").style.zIndex="-1";
     document.getElementById("history").style.transform="scale(0.02)";
     document.getElementById("history").style.transition="all 0.5s ease-in-out";
-    document.getElementById("last_img").style.display="block";
-    document.getElementById("last_img").style.transition="all 1.2s ease-in-out";
-    document.getElementById("last_img").style.transform="scale(1)";
+    document.getElementById("last_img").style.display = "block";
+    document.getElementById("last_img").style.transform = "scale(1)";
     document.getElementById("square").style.display="block";
     document.getElementById("zodi").style.display="block";
     document.getElementById("zodia").style.display="block";
@@ -63,6 +62,7 @@ function list(){
     document.getElementById("top_right").style.display="none";
     document.getElementById("baby_zodiac").style.display="block";
 }
+
 function okay(){
     const yOffset = -1800; 
     const element = document.getElementById('end_button');
