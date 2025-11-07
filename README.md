@@ -1,8 +1,6 @@
 # Celestine 🌙✨  
 *A Zodiac Discovery Dashboard & Personal Portfolio*
 
-![Celestine Banner](resources/fav.jpg)
-
 > *"The stars incline us, they do not bind us."*  
 > A beautifully crafted, responsive zodiac exploration website with interactive sign details and a personal profile page — built as a culmination of creativity, design, and web development skills.
 
