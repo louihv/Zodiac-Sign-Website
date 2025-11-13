@@ -59,21 +59,6 @@
 
 ---
 
-## 👩‍💻 Author
-
-**Mikaela Louise A. Garao**  
-*2nd Year BSIT Student | National University MOA*  
-Parañaque City | Pisces ♓ | Creative Coder & Dreamer
-
----
-
-## 📄 License
-
-This project is for **educational and portfolio purposes**.  
-Feel free to fork, modify, and use as inspiration!
-
----
-
 ## 🙏 Acknowledgments
 
 - [Boxicons](https://boxicons.com) – Beautiful icons  
