@@ -31,25 +31,6 @@
 
 ---
 
-## 📂 Project Structure
-Celestial-Base-Website/
-├── index.html (or dashboard.html)
-├── profile.html
-├── about.html
-├── css/
-│   ├── dashboard.css
-│   └── profile.css
-├── js/
-│   ├── dashboard.js
-│   └── profile.js
-├── resources/
-│   ├── zodiac/*.svg
-│   ├── 4.png, 7.png, 8.png, 9.png
-│   ├── pisces_title.png
-│   ├── chopin.mp3
-│   └── fav.jpg
-└── cookie.html
-
 ## 🎮 How to Use
 
 1. **Open `dashboard.html`** → Explore zodiac signs by clicking any card.
